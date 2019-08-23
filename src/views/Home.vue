@@ -71,7 +71,6 @@ export default {
   color: #2c3e50;
   }
   .viewIcon{
-    padding-right: 1.5px;
     margin-left: 5px;
   }
 </style>
