@@ -14,11 +14,11 @@
             </div>
           </div>
           <div class="level-item has-text-centered">
-            <a class="button icon is-medium has-text-info viewIcon">
-              <i class="mdi mdi-dark mdi-36px mdi-view-stream"></i>
+            <a disabled class="button is-small has-text-info viewIcon">
+              <i class="mdi mdi-24px mdi-view-stream"></i>
             </a>
-            <a class="button icon is-medium has-text-info viewIcon">
-              <i class="mdi mdi-inactive mdi-dark mdi-36px mdi-view-module"></i>
+            <a disabled class="button is-small has-text-info viewIcon">
+              <i class="mdi mdi-inactive mdi-24px  mdi-view-module"></i>
             </a>
           </div>
         </nav>    
