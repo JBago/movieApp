@@ -13,14 +13,6 @@
               </select>
             </div>
           </div>
-          <div class="level-item has-text-centered">
-            <a disabled class="button is-small has-text-info viewIcon">
-              <i class="mdi mdi-24px mdi-view-stream"></i>
-            </a>
-            <a disabled class="button is-small has-text-info viewIcon">
-              <i class="mdi mdi-inactive mdi-24px  mdi-view-module"></i>
-            </a>
-          </div>
         </nav>    
       </div>
       <item-box :list="this.listOfMovies">
@@ -69,8 +61,5 @@ export default {
   text-align: center;
   padding-top: 30px;
   color: #2c3e50;
-  }
-  .viewIcon{
-    margin-left: 5px;
   }
 </style>
